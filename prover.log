@@ -1,0 +1,40 @@
+[2m2022-12-08 18:26:03.679[0m [32m INFO[0m [2maleo_prover[0m[2m:[0m Starting prover 10d150d0d30
+[2m2022-12-08 18:26:08.617[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m 5712 Received new work: epoch_number 666 share_difficulty 32768 diff_time 1670495168617
+[2m2022-12-08 18:26:10.632[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1v2esqs6qhrnatqwgydp6hl4ka8wzfnzlykqmajj52mnwj3vurt6gsqtjxe5zsfnvtuwyydeznycsqe77axh 79588/32768
+[2m2022-12-08 18:26:44.737[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle19vqh4nqyvhr2eay3x4l7fj2renystkj8ngqavcwuuqxqlrnrykma32sv7wxwdt7t226g5d62g6nqzwun7a0 1128869/32768
+[2m2022-12-08 18:27:07.970[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 31221 (1m: --- P/s, 5m: --- P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:28:07.971[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 60028 (1m: 480.12 P/s, 5m: --- P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:28:37.099[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle17rlju24auhqxakl6fz7klqq8c5axqem7lnzwzs5u2ewqw929qx0gudl08fhe3ypfyd82qf8u29yqzusxnkz 39379/32768
+[2m2022-12-08 18:29:07.973[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 86976 (1m: 449.13 P/s, 5m: --- P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:30:07.974[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 114302 (1m: 455.43 P/s, 5m: --- P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:31:07.975[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 141429 (1m: 452.12 P/s, 5m: --- P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:32:07.977[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 168632 (1m: 453.38 P/s, 5m: 458.04 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:33:02.450[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle14r7l6qqvncvjl4494zsh23zxzmvunzd7670v0nr3z48y7kartctxc4hnxm2wlta6jdy0ann2r6lqqjng8ul 33266/32768
+[2m2022-12-08 18:33:07.240[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1kkadg0r3k6l6zezeju8e27lwjx69uhar3cq0lp75v8kz6ymdfspenu78x5hl7aw5gn8stl9r7ejczr6d8pw 100578/32768
+[2m2022-12-08 18:33:07.977[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 195849 (1m: 453.62 P/s, 5m: 452.74 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:33:54.402[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1axqdhas9j7whzayjqgyx96sxj8gwjl4mde46s4mtqcuu4yq9dhredd2hau9k6eectrqt8exqcd2qzpdh7h7 5527619/32768
+[2m2022-12-08 18:34:07.979[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 223100 (1m: 454.18 P/s, 5m: 453.75 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:35:07.980[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 250359 (1m: 454.32 P/s, 5m: 453.52 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:36:07.981[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 277674 (1m: 455.25 P/s, 5m: 454.15 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:37:07.982[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 305015 (1m: 455.68 P/s, 5m: 454.61 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:37:58.480[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1anc4pm22465ftveqdm9cjwzryh37wuecyy8frkz5za302undg7xmfq6vdjvvc3emghfugyfj779gznltzcy 39583/32768
+[2m2022-12-08 18:38:07.983[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 332348 (1m: 455.55 P/s, 5m: 455.00 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:39:07.985[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 359719 (1m: 456.18 P/s, 5m: 455.40 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:40:07.986[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 387054 (1m: 455.58 P/s, 5m: 455.65 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:40:31.956[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1qd3uj79fvrrw659tk4a5yuk22rfpg844qjssr6zc8evrmq7lrvt8s8qhul9uua9vmurqdsxgucrszrvz22t 54143/32768
+[2m2022-12-08 18:41:07.993[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 414364 (1m: 455.17 P/s, 5m: 455.63 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:41:34.290[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1ajl77hx0m6g5xeftnn35k2h52twu4cyn4hu28xpp40rkuyh8w868hr0r4z2v7n5cqhj0c6g9xk6sqrj8pem 38921/32768
+[2m2022-12-08 18:42:07.994[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 441634 (1m: 454.50 P/s, 5m: 455.40 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:42:46.283[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1j92680wxpue9a9y58g7pug25xq7u4jc6yw6l5fw56zmk436vcjued0f24k83p0vnvtds5gs4df0szj9chql 147919/32768
+[2m2022-12-08 18:43:07.995[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 468872 (1m: 453.97 P/s, 5m: 455.08 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:44:07.996[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 496165 (1m: 454.88 P/s, 5m: 454.82 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:44:45.434[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle19fyx9e0mfgnfltq5a4dnxggaj7txfjhvp3xpsr63gdzmaslwupkk0fz58g0z9fhgugrqdps7w5hsz2sdj0a 145772/32768
+[2m2022-12-08 18:44:48.230[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1u9k409t4qwzntpplvram2uuls0wqxdmr89f9azg6uszvm0rf8flqlu525xp2llldx8kwh4g2phrgqs57a90 93111/32768
+[2m2022-12-08 18:45:07.998[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 523478 (1m: 455.22 P/s, 5m: 454.75 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:45:10.011[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle10v3x9lcqw43g67437fzdccyw6enee6plhvkfpepusr5esm3jky32kx72snqnkjlk23hcawx0t2cgq4sxxvl 36170/32768
+[2m2022-12-08 18:46:08.000[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 550812 (1m: 455.57 P/s, 5m: 454.83 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:46:30.169[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle1grcgwr35ckk677exl9x2hqvcp94qykhk82ss6ck9yf7j9ak8dpuzdlz582y0q6a935hncm80sm5gqvw3y4a 55023/32768
+[2m2022-12-08 18:46:35.157[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle18agg3rr3pphzafuzctf2fndv97hk33x0rv5a4adcmj99t6y65maxm63cjhjqjm396jcjptxycpdqqnswrnl 47072/32768
+[2m2022-12-08 18:47:08.001[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 578176 (1m: 456.07 P/s, 5m: 455.14 P/s, 30m: --- P/s, 60m: --- P/s)[0m
+[2m2022-12-08 18:47:23.442[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m Found puzzle19lhdan4uvhry6zltr72muyzh3gc2m6a0khl6svshlmwwm8e5tvucx7tfap785sq7ygt6fkw5r6qgq6w880s 103408/32768
+[2m2022-12-08 18:48:08.002[0m [32m INFO[0m [2maleo_prover::prover[0m[2m:[0m [36m2.0.7 5712 perf: 605532 (1m: 455.93 P/s, 5m: 455.53 P/s, 30m: --- P/s, 60m: --- P/s)[0m
